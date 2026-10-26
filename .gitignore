@@ -1,0 +1,7 @@
+.env
+.env.*
+*token*
+*secret*
+*.pem
+*.key
+__pycache__/
